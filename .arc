@@ -4,7 +4,7 @@ sing-fdv
 @static
 
 @http
-
+get /
 
 @tables
 data
